@@ -4,6 +4,21 @@ A fairly irresponsible rodent rescue simulator. It's a native macOS game in Swif
 
 Groundhogs drop out of a crate and waddle mindlessly forward. You give individual hogs jobs (digging, punching through walls, stacking carrot stairs, holding brollies, exploding) so that enough of them reach the burrow before time runs out. There are **101 levels**: 8 hand-made ones and 93 that the game generates itself, and every level is checked by a built-in simulator to make sure it can be beaten.
 
+![GroundhogZ splash screen](docs/screenshots/splash.jpg)
+
+## Screenshots
+
+| | |
+|---|---|
+| ![Title screen with menu](docs/screenshots/title.jpg) | ![Level select with 101 levels](docs/screenshots/levels.jpg) |
+| **Title screen** — matches the splash; only the menu slides in | **Level select** — 101 levels with star ratings |
+| ![Spring level with a digger's hole](docs/screenshots/spring.jpg) | ![Winter level with brollies](docs/screenshots/winter.jpg) |
+| **Spring** — swaying grass, sunbeams, a digger's shaft | **Winter** — snowfall and brollies over a long drop |
+| ![Night level with an explosion](docs/screenshots/night.jpg) | ![Night level with water and carrot stairs](docs/screenshots/water.jpg) |
+| **Night** — fireflies, lamp-lit burrow, a Kaboom going off | **Water** — reflections and carrot stairs on a mirrored level |
+| ![Level briefing card](docs/screenshots/briefing.jpg) | ![Results card](docs/screenshots/results.jpg) |
+| **Briefing** — map preview and the skills you get | **Results** — stars, a verdict, and a memorial for the fallen |
+
 ## Download
 
 Get `GroundhogZ.zip` from the [latest release](https://github.com/lydianb79/Groundhogz/releases/latest), unzip it and move `GroundhogZ.app` to Applications.
