@@ -4,9 +4,13 @@ A fairly irresponsible rodent rescue simulator. It's a native macOS game in Swif
 
 Groundhogs drop out of a crate and waddle mindlessly forward. You give individual hogs jobs (digging, punching through walls, stacking carrot stairs, holding brollies, exploding) so that enough of them reach the burrow before time runs out. There are **101 levels**: 8 hand-made ones and 93 that the game generates itself, and every level is checked by a built-in simulator to make sure it can be beaten.
 
+![GroundhogZ gameplay: a dug-through plateau, carrot stairs over the water and a steel-capped wall](docs/screenshot.jpg)
+
+*Level 8, "The Grand Hogfather": one hog has dug through the plateau and stacked carrot stairs over the water, and the steel-capped wall ahead needs a Puncher.*
+
 ## Download
 
-Get `GroundhogZ.zip` from the [latest release](https://github.com/lydianb79/Groundhogz/releases/latest), unzip it and move `GroundhogZ.app` to Applications.
+Get `GroundhogZ.zip` from the [latest release](https://github.com/lydianb79/Groundhogz/releases/latest), unzip it and move `GroundhogZ.app` to Applications. Your progress (unlocked levels and best scores) is kept when you replace the app with a newer version.
 
 The app is ad-hoc signed and not notarized, so the first time you open it, right-click the app, choose **Open**, then confirm. If macOS still refuses, run:
 
